@@ -1,0 +1,104 @@
+{
+  "synopsis": {
+    "name": "A Naprendszer keletkezése",
+    "info": "A csillagászok szerint Naprendszerünk majdnem 5 milliárd évvel ezelőtt, egy hatalmas gáz- és ködfelhőből képződött. Ahogy ez a felhő zsugorodott, a középpontjában összesűrűsödő anyagból kialakult a Napunk. Korai szakaszában rengeteg robbanás következett be a felszínén, így gázfelhők kerültek az űrbe. Gravitációs erejének köszönhetően ezeket a por- és gázfelhőt nem engedte elillanni, és később ezekből alakultak ki a Naprendszer bolygói. A Nap közelében szilárd, köves bolygók keletkeztek: ilyen a Merkúr, a Vénusz, a Föld, és a Mars; távolabb viszont hatalmas gázóriások jöttek létre: a Jupiter, a Szaturnusz, az Uránusz és a Neptunusz.",
+    "video": "https://www.youtube.com/watch?v=libKVRa01L8&ab_channel=NationalGeographic",
+    "images": [
+      "./images/sun.jpg",
+      "./images/solar_system.jpg"
+    ]
+  },
+  "planets": [
+    {
+      "id": 1,
+      "name": "Merkúr",
+      "info": "A kis Merkúr a Naphoz legközelebbi bolygó. A rómaiak az istenek gyors hírnökéről, Mercuriusról nevezték el. A bolygó valóban gyors, mindössze 88 földi nap alatt kerüli meg a Napot, viszont csak két hónap alatt fordul meg a tengelye körül. A Naptól átlagosan 57,9 millió km-re kering, azonban pályája erősen elliptikus, emiatt a felszínén nagy a hőingás. A nappali hőmérséklet akár a 430 °C-ot is elérheti, ami elég az ólom és az ón megolvadásához, azonban a Nappal ellentétes oldalon dermesztő, -170 °C is előfordulhat.\n\nA Merkúr belső részét (feltehetőleg) olvadt vas alkotja, amelyet viszonylag vékony kőzetburok fed. Nincs légköre, és nincs ismert holdja. A Földről szabad szemmel is látható, azonban a Naphoz való közelsége miatt nehéz észrevenni.\n\nNemcsak a Belső-, hanem az egész Naprendszer legkisebb bolygója, mérete a Föld mindössze 38%-a, és a Holdunknál is csak kicsit nagyobb.",
+      "images": [
+        "./images/mercury.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vénusz",
+      "info": "A Naptól távolodva a Merkúr után a Vénusz következik, amely 108,2 millió km-re kering csillagunktól, majdnem körpályán. A Földnél valamivel kisebb bolygót teljes egészében felhők borítják; az űrből felszíne egyáltalán nem látható. Sok-sok éve, mielőtt az első radar áthatolt volna a felhőkön, úgy vélték, a Vénusz sokban hasonlít a Földre. Az emberek testvérbolygónak hitték, tele sűrű erdőkkel és különleges élőlényekkel. Most már tudjuk az igazságot; a Vénusz inkább a pokolról alkotott képünkre hasonlít, mintsem az élet egyik lehetséges helyszínére. A felszíni hőmérséklet csaknem 464 °C, magasabb, mint a Merkúron. Ez úgy lehetséges, hogy a bolygó szén-dioxidból álló sűrű légköre megtart minden felszínre érkező hőt az üvegházhatás miatt. A vastag felhőtakaró és a sűrű atmoszféra rendkívül fényessé teszi a Vénuszt. Gyakran látni a Földről „alkony- vagy hajnalcsillagként”. A Hold és a Nap után a harmadik legfényesebb csillagászati objektum a Földről nézve.\n\nA Vénusz méretében és tömegében hasonlít a Földhöz, és a gravitációs ereje is hasonló, a földinek 91%-a.",
+      "images": [
+        "./images/venus.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Föld",
+      "info": "Az összes eddig felfedezett bolygó közül a Föld az egyetlen, melyről tudjuk, hogy létezik rajta élet. Mikor 4,6 milliárd évvel ezelőtt a Naprendszer keletkezett, valószínűleg a Föld is egymásnak ütköző kőzetdarabokból jött létre.\n\nA Naptól számítva a Föld a harmadik bolygó. A Naprendszer kőzetbolygói közé tartozik. Három fő rétegből áll: kéreg, köpeny és mag. A Föld belsejéről viszonylag keveset tudunk. Feltételezhető, hogy a nikkelből és vasból álló szilárd mag hőmérséklete elérheti a 4000 °C-ot.\n\nA Földön azért vannak évszakok, mert a keringési tengely 23,4 fokkal eltér a keringési pálya síkjától. A tengely állásától függően fél évig az Északi-sark áll a Nap felé, majd a Déli. A Föld alakja nem tökéletes gömb: a sarkoknál laposabb, míg az Egyenlítőnél kidomborodik.\n\nAz atmoszféra védőpajzsként szolgál bolygónk és a rajta élők számára. 78% nitrogénből, 21% oxigénből, és 1%-ban egyéb gázokból, például argon, szén-dioxid, hélium stb. áll. A teljes légkör 10 km vastag, és a tetején húzódik az ózonréteg, mely védi a földi életet a Nap veszélyes UV-sugárzásától.\n\nHoldunk állandó kísérőnk, ami az ötödik legnagyobb hold a Naprendszerben. 350-400 ezer km-re kering tőlünk.",
+      "images": [
+        "./images/earth.jpg",
+        "./images/moon.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mars",
+      "info": "A római hadistenről elnevezett „vörös bolygó” minden másiknál jobban megragadta az ember fantáziáját. A Mars olyan, mint az Antarktisz egy elviselhetetlenebb változata, de a Merkúrhoz és a Vénuszhoz képest jóval barátságosabbnak tűnik. Még az is elképzelhető, hogy egykor létezett ott élet, sőt, egyesek szerint még ma is létezik. A Mars egy kisméretű kő- és vasbolygó. Mivel a Naptól nézve a Föld után helyezkedik el, ezért rendkívül hideg. Érdekes módon egy marsi nap hossza – 24 óra 37 perc – majdnem megegyezik a földiével, azonban a két bolygó közt jelentős különbségek vannak. A Mars átmérője a Földének mindössze fele, tömege 11%-a.\n\nFelszíni kőzetei az oxidáció miatt vörösek; állandóan porviharok pusztítják; és hatalmas kráterek, vulkánok és kanyonok tarkítják, amelyek mellett eltörpülnek földi társaik. A bolygó ritka légköre nagyrészt szén-dioxid, és hiányzik belőle a védelmet nyújtó ózonréteg. Két holdja, a Phobos és a Deimos feletehetőleg befogott kisbolygók, átmérőjük mindössze néhány km.",
+      "images": [
+        "./images/mars.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Jupiter",
+      "info": "A belső bolygók és a kisbolygók után található az óriásbolygók területe. Ezek közül a legbelső és legnagyobb a Jupiter. Elsősorban folyékony hélium és hidrogén alkotja. Felszíne ilyen értelemben nincs, de elképzelhető, hogy a közepét kőből és jégből álló szilárd mag alkotja. A Jupiter színes bolygó, élénk, örvénylő viharok tarkítják, és jellegzetes sávok övezik. Az utóbbiak felhőformációk, melyek hosszirányban nyúlnak el. A Jupiter gyakran látható az éjszakai égbolton, a Vénuszt kivéve fényesebb, mint bármely másik bolygó. A bolygónak legalább 63 holdja van, és továbbiak felfedezése is várható. Többségük nem több kis kősziklánál, de a négy Galilei-hold önmagában lenyűgöző égitest.",
+      "images": [
+        "./images/jupiter.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Szaturnusz",
+      "info": "A Jupitertől távolodva a következő bolygó a Szaturnusz, amely a második legnagyobb a Naprendszerben. Nagyjából kétszer olyan távol helyezkedik el a Naptól, mint a Jupiter, és tízszer olyan távol, mint a Föld. A Jupiterhez hasonlóan a Szaturnusz is gázóriás; hidrogén és hélium alkotja. Amikor megpillantották a teleszkópon keresztül, kiderült, hogy ez a bolygó különleges, mégpedig abban, hogy gyönyörű gyűrűrendszer veszi körül. A gyűrűrendszer nem egyedi, hiszen a másik három gázbolygó körül van ilyen, de kétségtelenül a Szaturnuszé a legfényesebb és legkiterjedtebb. A gyűrűk elsősorban visszatükröződő vízjégből állnak, mely fényessé, távcsővel is láthatóvá teszi őket. Maga a Szaturnusz puszta szemmel is látható, sárgás színű. Legalább 48 természetes holdja van, amelyek közül a Titan a Naprendszer egyetlen olyan ismert holdja, amelyet atmoszféra burkol.",
+      "images": [
+        "./images/saturn.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Uránusz",
+      "info": "A szaturnuszi rendszeren túl a következő bolygó a fakó, kékeszöld Uránusz. Pályája majdnem kétszer olyan távol van a Naptól, mint a Szaturnuszé. A két beljebb található bolygóhoz hasonlóan az Uránusz sem szilárd; légköre beleolvad a bolygótestbe. A többi gázóriáshoz képest az Uránusz sokkal sűrűbb, ami arra enged következtetni, hogy a belsejét hidrogén, jégmolekulákból, vízből és metánból álló egyveleg alkotja.\n\nAz Uránusz tengelyhajlása a pályasíkhoz olyan nagy, hogy a bolygó tulajdonképpen az oldalán kering, ami a csillagászok szerint valószínűleg egy másik bolygóval való összeütközés következménye lehet. Az Uránusznak is van gyűrűrendszere, azonban sokkal vékonyabb és halványabb, mint a Szaturnuszé. Legalább 27 hold kíséri, ezek közül mindössze csak ötnek az átmérője haladja meg a 470 km-t. Bár az Uránusz megfelelő körülmények között puszta szemmel is látható a sötét égbolton, csak 1781-ben fedezték fel, mint bolygót.",
+      "images": [
+        "./images/uranus.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Neptunusz",
+      "info": "A Neptunusz az utolsó óriásbolygó, a Naprendszer négy óriásbolygójának legtávolabbika. A Naptól harmincszor távolabb helyezkedik el, mint a Föld. Ilyen távolságban a Nap 900-szor halványabb, mint a Földön. E sötét és fagyos bolygó azonban meglepően aktív, légköre dinamikus. A felhőknek alacsonyan össze kellene sűrűsödniük, és ködbe veszniük, de a belső hőforrás viharos légkört eredményez. A főbb felhőket metánjég-kristályok alkotják.\n\nA jégóriás az Uránusztól kicsit kisebb. Figyelembe véve a Neptunusz és az Uránusz méret- és struktúrabeli hasonlóságait, meglepő, hogy a két bolygó látványa mennyire eltér egymástól. Míg az Uránusz első ránézésre egy halvány, jellegtelen bolygónak tűnik, addig a Neptunusz egy gyönyörű, jeges, kék bolygó, melyet sávokban felhők borítanak és hatalmas viharrendszerek tarkítanak. A többi óriáshoz hasonlóan a Neptunusz körül is számos hold kering, ezek közül körülbelül tizenhármat ismerünk. A Neptunuszt 1846-ban fedezték fel, bár létezését az Uránusz pályája alapján már évekkel korábban feltételezték.",
+      "images": [
+        "./images/neptune.jpg"
+      ]
+    }
+  ],
+  "curiosities": [
+    {
+      "id": 1,
+      "name": "Pluto",
+      "info": "A Plutót egészen 2006-ig a Naprendszer kilencedik bolygójaként tartották számon. A Pluto különös égitest. Mérete kicsi (sokkal kisebb még a Merkúrnál is); lényegesen elnyúltabb és hajlottabb pályán halad, mint a többi bolygó; összetétele kőzet és nagy százalékban jég. A Pluto sem Föld típusú bolygónak, sem óriásnak nem tekinthető, emiatt a törpebolygók közé sorolják. Több száz olyan objektumot ismerünk, melyeknek összetétele a Plutóéhoz hasonló, de a törpebolygóknál kisebbek. Ezek a Kuiper-objektumok, amelyek a Neptunusz pályáján túl helyezkednek el. A Plutót 1930-ban fedezték fel, és 1978-ban találták meg kis holdját, a Charont. E két égitest 6 nap alatt kerüli meg egymást, mindvégig ugyanazt az oldalukat fordítva egymás irányába (akárcsak a Hold és a Föld).",
+      "images": [
+        "./images/pluto.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kuiper-öv",
+      "info": "1992-ben két csillagász felfedezett egy ismeretlen, 200 km átmérőjű jeges égitestet, amely 296 éves periódussal kering a Nap körül. Az 1992 QB1 nevet kapta. Ezt követően több száz hasonló objektumra bukkantak a Neptunusz pályáján túl. Ez bebizonyította a régóta feltételezett Kuiper-öv létezését, ahol a Naprendszer szélén a bolygókeletkezés jeges maradványai keringenek. A Kuiper-öv becslések szerint 10 millió-1 milliárd fagyott objektumot tartalmaz. Többségük stabil pályán halad a bolygók birodalmán kívül, ám némelyiket alkalmanként megzavarja a külső bolygók gravitációs hatása. Ennek következtében erősen elliptikus pályán mozognak, és olykor a Belső-Naprendszerben is megfigyelhetők rövid periódusú üstökösökként.",
+      "images": [
+        "./images/kuiper-belt.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "A Naprendszer élete",
+      "info": "Naprendszerünk egy csillagközi gáz és por alkotta sötét felhőből keletkezett. A felhő a gravitációs erő hatására összeomlott, és kétmillió éven belül korong jött létre. A korongban lévő anyag azonnal szilárd rögökké, később hold méretű alkotóelemekké, planetoidokká olvadtak egybe. A Naprendszer 30-50 millió év alatt kialakult, ám a törmelék a nagy bombázás időszakában továbbra is hullott a bolygókra. Ez több, mint egymilliárd évig tartott. A Naprendszer az elmúlt évmilliárdok alatt nem változott sokat, de ez az egyensúlyi állapot nem tarthat örökké. Körülbelül ötmilliárd év múlva a Nap hidrogénkészlete elfogy, és vörös óriássá duzzad, bekebelezve néhány belső bolygót. Ezután ledobja külső rétegjeit, és végül nem marad más hátra, csak egy halvány fehér törpe, és a maradék bolygók.",
+      "images": [
+        "./images/form_of_the_solar_system.jpg"
+      ]
+    }
+  ]
+}
